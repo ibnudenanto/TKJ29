@@ -3,5 +3,7 @@
 ## Table Contacts with fields
 id
 name
-mumber
+phone_mumber
+avatar
+
 
